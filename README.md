@@ -64,7 +64,7 @@ This repository contains the Entity-Relationship Diagram (ERD) for the "RentalFl
 
 Below is the Entity-Relationship Diagram for the RentalFlix system:
 
-![ERD Diagram](https://github.com/nooralbonne/RentalFlix/blob/master/ERD-diagram1.jpg)
+![ERD Diagram](https://github.com/nooralbonne/RentalFlix/blob/master/RentalFlix.png)
 
 ## Submission Instructions
 
